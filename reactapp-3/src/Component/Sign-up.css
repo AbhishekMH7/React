@@ -1,0 +1,10 @@
+.txt{
+    border-block-end: unset;
+    float: right;
+    margin-right: 65px;
+}
+ .lbl{
+    font-weight: bolder;
+    font-family: cursive;
+    color: black;
+ }

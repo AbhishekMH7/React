@@ -1,0 +1,21 @@
+.txt{
+    border-block-end: unset;
+    float: right;
+    margin-right: 65px;
+}
+ .lbl{
+    font-weight: bolder;
+    font-family: cursive;
+    color: black;
+ }
+ .block{
+    margin: 100px auto;
+    width: 350px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: beige;
+}
+.div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
